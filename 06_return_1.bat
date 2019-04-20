@@ -1,2 +1,2 @@
-echo �߂�l1��Ԃ��܂�
+echo 戻り値1を返します
 exit /b 1
